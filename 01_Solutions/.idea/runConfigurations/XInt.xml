@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="XInt" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="solutions_01.Solutions_01_Introduction" />
+    <module name="01_Solutions" />
+    <option name="VM_PARAMETERS" value="-Xint" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
